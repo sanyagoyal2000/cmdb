@@ -1,2 +1,2 @@
-# cmtb
+# cmdb
 a movie database
