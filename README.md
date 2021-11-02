@@ -1,2 +1,2 @@
 # cmdb
-a movie database blah blah
+a movie database
