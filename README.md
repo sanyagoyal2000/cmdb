@@ -1,2 +1,0 @@
-# cmdb
-a movie database
