@@ -1,2 +1,2 @@
-# movie-recommendation
-Movie Recommendation Site using cosine similarity
+# CMDB-Cloned Movie Database 
+Content based recommendation
